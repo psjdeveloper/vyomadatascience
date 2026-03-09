@@ -156,3 +156,5 @@ This shows that library functions are simply **automated versions of mathematica
 Understanding the **mathematics behind the libraries** is an important goal of this initiative.
 
 ---
+## Our open source repository :-
+https://github.com/psjdeveloper/vyomadatascience
